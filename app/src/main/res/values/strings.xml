@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Algoritma Task</string>
+    <string name="connect">Connect</string>
+    <string name="de_connect">De connect</string>
+    <string name="state_connect">Now websocket is connect!</string>
+    <string name="state_disconnect">Now websocket is disconnect!</string>
+
+</resources>
